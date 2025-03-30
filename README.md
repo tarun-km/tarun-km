@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.glitch.global/64e032bd-0017-4ad8-9e1c-0109d4c11bfc/test?v=1743321140494" width="100%" alt="Tarun KM Banner"/>
+  <img src="https://cdn.glitch.global/64e032bd-0017-4ad8-9e1c-0109d4c11bfc/testv2.png?v=1743330289112" width="100%" alt="Tarun KM Banner"/>
 </div>
 
 <!-- TECH STACK & SKILLSET -->
