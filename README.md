@@ -10,7 +10,7 @@
   <h3>UI/UX DESIGN</h3>
   <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark&perline=6" />
   
-  <h3>FROTNEND & MOBILE</h3>
+  <h3>FRONTNEND & MOBILE</h3>
   <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css&theme=dark&perline=6" />
   
   <h3>BACKEND & DATABASES</h3>
